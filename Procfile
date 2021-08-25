@@ -1,1 +1,1 @@
-worker: python rararan.py 
+worker: pip install -r requirement.txt && python rararan.py 
